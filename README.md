@@ -1,5 +1,6 @@
 # aks-agic-helm
 An Azure Kubernetes Services (AKS) cluster with Application Gateway Ingress Controller (AGIC) deployed via helm chart
+![1ingress.png](/1ingress.png)
 
 References:
 - https://github.com/Azure/application-gateway-kubernetes-ingress/blob/master/docs/setup/install-existing.md
